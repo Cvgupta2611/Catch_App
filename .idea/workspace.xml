@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a3e8836-a25b-4db4-8935-b9afb81a09fb" name="Default" comment="" />
+    <ignored path="Retry.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Retry$views.coverage" NAME="views Coverage Results" MODIFIED="1548603762831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Retryapp" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Retry" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Retryapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6929392" vertical-offset="74956" max-vertical-offset="85034">
+              <caret line="4434" column="26" selection-start-line="4434" selection-start-column="26" selection-end-line="4434" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+                <marker date="1565545375123" expanded="true" signature="2406:2440" placeholder="select * fro..login..." />
+                <marker date="1565545375123" expanded="true" signature="2575:2616" placeholder="select * fro..registration..." />
+                <marker date="1565545375123" expanded="true" signature="2949:2998" placeholder="select inter..user_interest..." />
+                <marker date="1565545375123" expanded="true" signature="4297:4343" placeholder="select app_i..user_app..." />
+                <marker date="1565545375123" expanded="true" signature="4498:4541" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="4891:4941" placeholder="select web_i..user_website..." />
+                <marker date="1565545375123" expanded="true" signature="5127:5162" placeholder="select * fro..web..." />
+                <marker date="1565545375123" expanded="true" signature="5334:5386" placeholder="select soft_..user_software..." />
+                <marker date="1565545375123" expanded="true" signature="5526:5579" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="5992:6035" placeholder="select passw..login..." />
+                <marker date="1565545375123" expanded="true" signature="6703:6726" placeholder="select * fro..age_range..." />
+                <marker date="1565545375123" expanded="true" signature="6806:6842" placeholder="select * fro..educational_background..." />
+                <marker date="1565545375123" expanded="true" signature="6934:6953" placeholder="select * fro..state..." />
+                <marker date="1565545375123" expanded="true" signature="7028:7050" placeholder="select * fro..language..." />
+                <marker date="1565545375123" expanded="true" signature="7128:7148" placeholder="select * fro..income..." />
+                <marker date="1565545375123" expanded="true" signature="7224:7248" placeholder="select * fro..profession..." />
+                <marker date="1565545375123" expanded="true" signature="7328:7350" placeholder="select * fro..interest..." />
+                <marker date="1565545375123" expanded="true" signature="8023:8093" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="8677:8739" placeholder="select * fro..web..." />
+                <marker date="1565545375123" expanded="true" signature="8983:9048" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="9726:9796" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="10383:10447" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="11173:11222" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="11872:11909" placeholder="select * fro..web..." />
+                <marker date="1565545375123" expanded="true" signature="12126:12170" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="13223:13259" placeholder="select * fro..login..." />
+                <marker date="1565545375123" expanded="true" signature="13438:13500" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="13798:13953" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="14340:14398" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="14934:15089" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="15441:15499" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="16074:16229" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="16616:16674" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="17080:17235" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="17586:17644" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="18335:18358" placeholder="select * fro..age_range..." />
+                <marker date="1565545375123" expanded="true" signature="18462:18498" placeholder="select * fro..educational_background..." />
+                <marker date="1565545375123" expanded="true" signature="18614:18633" placeholder="select * fro..state..." />
+                <marker date="1565545375123" expanded="true" signature="18732:18754" placeholder="select * fro..language..." />
+                <marker date="1565545375123" expanded="true" signature="18856:18876" placeholder="select * fro..income..." />
+                <marker date="1565545375123" expanded="true" signature="18976:19000" placeholder="select * fro..profession..." />
+                <marker date="1565545375123" expanded="true" signature="19104:19126" placeholder="select * fro..interest..." />
+                <marker date="1565545375123" expanded="true" signature="19887:19957" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="20541:20603" placeholder="select * fro..web..." />
+                <marker date="1565545375123" expanded="true" signature="20847:20912" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="21291:21332" placeholder="select * fro..registration..." />
+                <marker date="1565545375123" expanded="true" signature="21712:21754" placeholder="select * fro..user_interest..." />
+                <marker date="1565545375123" expanded="true" signature="23274:23323" placeholder="select * fro..recommendation_data..." />
+                <marker date="1565545375123" expanded="true" signature="24833:24875" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="26559:26620" placeholder="select lid,r..login..." />
+                <marker date="1565545375123" expanded="true" signature="27012:27058" placeholder="select statu..registration..." />
+                <marker date="1565545375123" expanded="true" signature="27243:27297" placeholder="select usern..registration..." />
+                <marker date="1565545375123" expanded="true" signature="28871:28921" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="29621:29691" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="30391:30461" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="30905:30967" placeholder="select * fro..web..." />
+                <marker date="1565545375123" expanded="true" signature="31190:31252" placeholder="select * fro..web..." />
+                <marker date="1565545375123" expanded="true" signature="31484:31549" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="31956:32021" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="32792:32830" placeholder="select email..login..." />
+                <marker date="1565545375123" expanded="true" signature="32972:33013" placeholder="select * fro..registration..." />
+                <marker date="1565545375123" expanded="true" signature="33149:33191" placeholder="select * fro..user_interest..." />
+                <marker date="1565545375123" expanded="true" signature="35140:35278" placeholder="update regis..." />
+                <marker date="1565545375123" expanded="true" signature="35465:35521" placeholder="update login..." />
+                <marker date="1565545375123" expanded="true" signature="35738:35783" placeholder="select image..registration..." />
+                <marker date="1565545375123" expanded="true" signature="35906:36044" placeholder="update regis..." />
+                <marker date="1565545375123" expanded="true" signature="36230:36286" placeholder="update login..." />
+                <marker date="1565545375123" expanded="true" signature="36489:36532" placeholder="select rid f..registration..." />
+                <marker date="1565545375123" expanded="true" signature="36643:36683" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="36796:36854" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="37181:37207" placeholder="SELECT * FRO..registration..." />
+                <marker date="1565545375123" expanded="true" signature="39165:39207" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="41654:41951" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="42583:42648" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="49247:49348" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="50488:50614" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="51064:51165" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="51705:51831" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="52068:52110" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="52267:52325" placeholder="select scree..app_screenshots..." />
+                <marker date="1565545375123" expanded="true" signature="52643:52694" placeholder="select * fro..app_reviews_result..." />
+                <marker date="1565545375123" expanded="true" signature="52879:52923" placeholder="select * fro..reviews_topic..." />
+                <marker date="1565545375123" expanded="true" signature="53297:53354" placeholder="select * fro..user_app..." />
+                <marker date="1565545375123" expanded="true" signature="53539:53622" placeholder="select statu..user_app_like_dislike_status..." />
+                <marker date="1565545375123" expanded="true" signature="58126:58227" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="59367:59493" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="59943:60044" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="60584:60710" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="60947:60989" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="61146:61204" placeholder="select scree..app_screenshots..." />
+                <marker date="1565545375123" expanded="true" signature="61522:61573" placeholder="select * fro..app_reviews_result..." />
+                <marker date="1565545375123" expanded="true" signature="61758:61802" placeholder="select * fro..reviews_topic..." />
+                <marker date="1565545375123" expanded="true" signature="62176:62233" placeholder="select * fro..user_app..." />
+                <marker date="1565545375123" expanded="true" signature="62418:62501" placeholder="select statu..user_app_like_dislike_status..." />
+                <marker date="1565545375123" expanded="true" signature="66183:66234" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="66350:66408" placeholder="select scree..app_screenshots..." />
+                <marker date="1565545375123" expanded="true" signature="66721:66772" placeholder="select * fro..app_reviews_result..." />
+                <marker date="1565545375123" expanded="true" signature="67022:67066" placeholder="select * fro..reviews_topic..." />
+                <marker date="1565545375123" expanded="true" signature="70563:70620" placeholder="select * fro..user_app..." />
+                <marker date="1565545375123" expanded="true" signature="70815:70898" placeholder="select statu..user_app_like_dislike_status..." />
+                <marker date="1565545375123" expanded="true" signature="74748:74782" placeholder="select * FRO..web..." />
+                <marker date="1565545375123" expanded="true" signature="78431:78728" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="81798:81904" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="82265:82371" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="82565:82671" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="83109:83215" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="83409:83515" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="83710:83816" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="84250:84356" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="84550:84656" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="84851:84957" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="85151:85257" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="85466:85572" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="85750:85856" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="86035:86141" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="86319:86425" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="86603:86709" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="86911:86945" placeholder="select * FRO..web..." />
+                <marker date="1565545375123" expanded="true" signature="87194:87235" placeholder="select * FRO..web_table..." />
+                <marker date="1565545375123" expanded="true" signature="88318:88379" placeholder="select * fro..user_website..." />
+                <marker date="1565545375123" expanded="true" signature="88554:88641" placeholder="select statu..user_website_like_dislike_status..." />
+                <marker date="1565545375123" expanded="true" signature="91835:91869" placeholder="select * FRO..web..." />
+                <marker date="1565545375123" expanded="true" signature="92215:92258" placeholder="update web S..." />
+                <marker date="1565545375123" expanded="true" signature="92355:92396" placeholder="select * FRO..web_table..." />
+                <marker date="1565545375123" expanded="true" signature="93433:93494" placeholder="select * fro..user_website..." />
+                <marker date="1565545375123" expanded="true" signature="93669:93756" placeholder="select statu..user_website_like_dislike_status..." />
+                <marker date="1565545375123" expanded="true" signature="97398:97450" placeholder="select * FRO..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="98300:98343" placeholder="select * FRO..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="98570:98631" placeholder="update new_s..." />
+                <marker date="1565545375123" expanded="true" signature="99532:99595" placeholder="select * fro..user_software..." />
+                <marker date="1565545375123" expanded="true" signature="99731:99820" placeholder="select statu..user_software_like_dislike_status..." />
+                <marker date="1565545375123" expanded="true" signature="114998:115053" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="115708:115763" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="116909:116968" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="117631:117690" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="118881:118942" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="119753:119814" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="120717:120796" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="121798:121884" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="122767:122855" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="123713:123800" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="123905:123955" placeholder="select app_l..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="124301:124355" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="125032:125107" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="125484:125537" placeholder="select app_d..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="125735:125792" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="126599:126690" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="126796:126838" placeholder="select web_l..web..." />
+                <marker date="1565545375123" expanded="true" signature="127185:127231" placeholder="update web S..." />
+                <marker date="1565545375123" expanded="true" signature="127917:127996" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="128373:128418" placeholder="select web_d..web..." />
+                <marker date="1565545375123" expanded="true" signature="128616:128665" placeholder="update web S..." />
+                <marker date="1565545375123" expanded="true" signature="129475:129568" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="129709:129780" placeholder="select title..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="130169:130238" placeholder="update new_s..." />
+                <marker date="1565545375123" expanded="true" signature="130928:131009" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="131387:131455" placeholder="select softw..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="131654:131726" placeholder="update new_s..." />
+                <marker date="1565545375123" expanded="true" signature="132470:132514" placeholder="select * fro..registration..." />
+                <marker date="1565545375123" expanded="true" signature="132724:132762" placeholder="select email..login..." />
+                <marker date="1565545375123" expanded="true" signature="133418:133468" placeholder="update regis..." />
+                <marker date="1565545375123" expanded="true" signature="133542:133585" placeholder="select lid f..registration..." />
+                <marker date="1565545375123" expanded="true" signature="133653:133691" placeholder="select email..login..." />
+                <marker date="1565545375123" expanded="true" signature="134217:134261" placeholder="select * fro..registration..." />
+                <marker date="1565545375123" expanded="true" signature="134473:134511" placeholder="select email..login..." />
+                <marker date="1565545375123" expanded="true" signature="135153:135196" placeholder="select lid f..registration..." />
+                <marker date="1565545375123" expanded="true" signature="135314:135354" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="135424:135463" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="135532:135564" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="135655:135699" placeholder="select * fro..registration..." />
+                <marker date="1565545375123" expanded="true" signature="135911:135949" placeholder="select email..login..." />
+                <marker date="1565545375123" expanded="true" signature="137048:137090" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="138791:139077" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="139600:139665" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="140274:140375" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="141287:141413" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="141762:141819" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="141987:142044" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="143769:143839" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="144339:144393" placeholder="select app_c..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="144567:144625" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="144768:144826" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="144936:145006" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="145773:145815" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="147516:147802" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="148320:148385" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="148994:149095" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="150007:150133" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="150487:150544" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="150712:150769" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="152236:152306" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="152780:152834" placeholder="select app_c..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="153002:153060" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="153203:153261" placeholder="update app_d..." />
+                <marker date="1565545375123" expanded="true" signature="153377:153447" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="153933:153980" placeholder="select site_..website..." />
+                <marker date="1565545375123" expanded="true" signature="154094:154132" placeholder="select title..web..." />
+                <marker date="1565545375123" expanded="true" signature="158202:158488" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="161557:161663" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="162024:162130" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="162324:162430" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="162868:162974" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="163168:163274" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="163469:163575" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="164009:164115" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="164309:164415" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="164610:164716" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="164910:165016" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="165225:165331" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="165509:165615" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="165794:165900" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="166078:166184" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="166362:166468" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="167129:167177" placeholder="select web_i..web..." />
+                <marker date="1565545375123" expanded="true" signature="167673:167715" placeholder="select categ..web..." />
+                <marker date="1565545375123" expanded="true" signature="167850:167896" placeholder="update web S..." />
+                <marker date="1565545375123" expanded="true" signature="168013:168061" placeholder="select web_i..web..." />
+                <marker date="1565545375123" expanded="true" signature="168804:168847" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="170101:170145" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="170659:170710" placeholder="delete from ..." />
+                <marker date="1565545375123" expanded="true" signature="170782:170826" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="180716:180786" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="181240:181286" placeholder="select app_i..user_app..." />
+                <marker date="1565545375123" expanded="true" signature="181413:181456" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="182215:182265" placeholder="select web_i..user_website..." />
+                <marker date="1565545375123" expanded="true" signature="182380:182415" placeholder="select * fro..web..." />
+                <marker date="1565545375123" expanded="true" signature="182994:183046" placeholder="select soft_..user_software..." />
+                <marker date="1565545375123" expanded="true" signature="183161:183214" placeholder="select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="183889:183934" placeholder="Select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="184464:184501" placeholder="Select * fro..web..." />
+                <marker date="1565545375123" expanded="true" signature="184692:184738" placeholder="Select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="185118:185163" placeholder="Select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="185609:185646" placeholder="Select * fro..web..." />
+                <marker date="1565545375123" expanded="true" signature="185807:185853" placeholder="Select * fro..new_software..." />
+                <marker date="1565545375123" expanded="true" signature="186768:186810" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="189231:189528" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="190079:190144" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="190847:190948" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="191936:192062" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="192448:192549" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="193009:193135" placeholder="insert into ..." />
+                <marker date="1565545375123" expanded="true" signature="194391:194432" placeholder="select * fro..registration..." />
+                <marker date="1565545375123" expanded="true" signature="194784:194826" placeholder="select * fro..user_interest..." />
+                <marker date="1565545375123" expanded="true" signature="196270:196319" placeholder="select * fro..recommendation_data..." />
+                <marker date="1565545375123" expanded="true" signature="200116:200158" placeholder="select * fro..app_details..." />
+                <marker date="1565545375123" expanded="true" signature="201856:201937" placeholder="insert into ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trendingapp.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/trendingapp.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.5384617" vertical-offset="3035" max-vertical-offset="4862">
+              <caret line="249" column="21" selection-start-line="207" selection-start-column="16" selection-end-line="249" selection-end-column="21" />
+              <folding>
+                <element signature="n#form#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="popular1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/popular1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="72.30769" vertical-offset="2968" max-vertical-offset="8704">
+              <caret line="64" column="73" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_recommendation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/app_recommendation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="111.80769" vertical-offset="3485" max-vertical-offset="4913">
+              <caret line="34" column="12" selection-start-line="29" selection-start-column="2" selection-end-line="34" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Retry/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="527">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="e#629#661#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Retryapp/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1887">
+              <caret line="83" column="83" selection-start-line="83" selection-start-column="83" selection-end-line="83" selection-end-column="83" />
+              <folding>
+                <element signature="e#24#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="website.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/website.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="37.923077" vertical-offset="1394" max-vertical-offset="8500">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashoard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/dashoard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-132.07692" vertical-offset="0" max-vertical-offset="7344">
+              <caret line="222" column="70" selection-start-line="222" selection-start-column="70" selection-end-line="222" selection-end-column="70" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#for#2;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register_1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/register_1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="13.511905" vertical-offset="4161" max-vertical-offset="8976">
+              <caret line="264" column="34" selection-start-line="264" selection-start-column="34" selection-end-line="264" selection-end-column="34" />
+              <folding>
+                <element signature="e#3393#3446#0#HTML" expanded="false" />
+                <element signature="e#3464#3518#0#HTML" expanded="false" />
+                <element signature="e#4407#4601#0#HTML" expanded="false" />
+                <element signature="e#4650#5618#0#HTML" expanded="false" />
+                <element signature="e#4702#4925#0#HTML" expanded="false" />
+                <element signature="e#4970#5264#0#HTML" expanded="false" />
+                <element signature="e#5308#5602#0#HTML" expanded="false" />
+                <element signature="e#5804#6072#0#HTML" expanded="false" />
+                <element signature="e#6121#6665#0#HTML" expanded="false" />
+                <element signature="e#6711#6914#0#HTML" expanded="false" />
+                <element signature="e#6959#7119#0#HTML" expanded="false" />
+                <element signature="e#7309#7515#0#HTML" expanded="false" />
+                <element signature="e#7922#8143#0#HTML" expanded="false" />
+                <element signature="e#8202#8362#0#HTML" expanded="false" />
+                <element signature="e#8558#8768#0#HTML" expanded="false" />
+                <element signature="e#8828#8988#0#HTML" expanded="false" />
+                <element signature="e#9174#9379#0#HTML" expanded="false" />
+                <element signature="e#9428#9588#0#HTML" expanded="false" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.115385" vertical-offset="1214" max-vertical-offset="2873">
+              <caret line="105" column="42" selection-start-line="105" selection-start-column="36" selection-end-line="105" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>website_se</find>
+      <find>applic</find>
+      <find>smore</find>
+      <find>contact</find>
+      <find>t</find>
+      <find>contact_</find>
+      <find>user_app_re</find>
+      <find>software</find>
+      <find>logou</find>
+      <find>trending</find>
+      <find>keyword</find>
+      <find>logout</find>
+      <find>log</find>
+      <find>name</find>
+      <find>website(</find>
+      <find>website</find>
+      <find>trending_app_admin</find>
+      <find>execute</find>
+      <find>execute(re</find>
+      <find>new_app</find>
+      <find>update</find>
+      <find>popular website</find>
+      <find>TRENDING</find>
+      <find>show</find>
+      <find>application</find>
+      <find>popula</find>
+      <find>living_box</find>
+      <find>tren</find>
+      <find>guest</find>
+      <find>google</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>website</replace>
+      <replace>result_software.html</replace>
+      <replace>agileits-left</replace>
+      <replace>100</replace>
+      <replace>p</replace>
+      <replace>21</replace>
+      <replace>name</replace>
+      <replace>Enter Your website name</replace>
+      <replace>status</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/show.html" />
+        <option value="$PROJECT_DIR$/templates/appguest.html" />
+        <option value="$PROJECT_DIR$/templates/new_website_categories.html" />
+        <option value="$PROJECT_DIR$/templates/feedback.html" />
+        <option value="$PROJECT_DIR$/templates/contact.html" />
+        <option value="$PROJECT_DIR$/templates/404.html" />
+        <option value="$PROJECT_DIR$/templates/added_app.html" />
+        <option value="$PROJECT_DIR$/templates/addedsoftware.html" />
+        <option value="$PROJECT_DIR$/templates/addedweb.html" />
+        <option value="$PROJECT_DIR$/templates/editprofile.html" />
+        <option value="$PROJECT_DIR$/templates/editprofile_new.html" />
+        <option value="$PROJECT_DIR$/templates/highlights.html" />
+        <option value="$PROJECT_DIR$/templates/highlightsapp.html" />
+        <option value="$PROJECT_DIR$/templates/highlightsoftware.html" />
+        <option value="$PROJECT_DIR$/templates/highlightweb.html" />
+        <option value="$PROJECT_DIR$/templates/new_result.html" />
+        <option value="$PROJECT_DIR$/templates/originalabout.html" />
+        <option value="$PROJECT_DIR$/templates/popular1.html" />
+        <option value="$PROJECT_DIR$/templates/popularapp.html" />
+        <option value="$PROJECT_DIR$/templates/popularsoftware.html" />
+        <option value="$PROJECT_DIR$/templates/profile.html" />
+        <option value="$PROJECT_DIR$/templates/result_download.com_software.html" />
+        <option value="$PROJECT_DIR$/templates/result_download.com_software_unauth.html" />
+        <option value="$PROJECT_DIR$/templates/result_software.html" />
+        <option value="$PROJECT_DIR$/templates/result_software_unauth.html" />
+        <option value="$PROJECT_DIR$/templates/softwareauth.html" />
+        <option value="$PROJECT_DIR$/templates/softwareguest.html" />
+        <option value="$PROJECT_DIR$/templates/suggested.html" />
+        <option value="$PROJECT_DIR$/templates/suggestedapp.html" />
+        <option value="$PROJECT_DIR$/templates/suggestedsoftware.html" />
+        <option value="$PROJECT_DIR$/templates/suggestedweb.html" />
+        <option value="$PROJECT_DIR$/templates/trending.html" />
+        <option value="$PROJECT_DIR$/templates/trendingapp.html" />
+        <option value="$PROJECT_DIR$/templates/trendingsoftware.html" />
+        <option value="$PROJECT_DIR$/templates/trendingweb.html" />
+        <option value="$PROJECT_DIR$/templates/unauth_result.html" />
+        <option value="$PROJECT_DIR$/templates/webauth.html" />
+        <option value="$PROJECT_DIR$/templates/webguest.html" />
+        <option value="$PROJECT_DIR$/templates/website_unauth.html" />
+        <option value="$PROJECT_DIR$/templates/software_like_query.html" />
+        <option value="$PROJECT_DIR$/templates/app_recommendation.html" />
+        <option value="$PROJECT_DIR$/templates/added.html" />
+        <option value="$PROJECT_DIR$/templates/popularweb.html" />
+        <option value="$PROJECT_DIR$/templates/website.html" />
+        <option value="$PROJECT_DIR$/templates/result.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/register_1.html" />
+        <option value="$PROJECT_DIR$/Retryapp/urls.py" />
+        <option value="$PROJECT_DIR$/templates/dashoard.html" />
+        <option value="$PROJECT_DIR$/Retryapp/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1552" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retryapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Retry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scarping_webpages" />
+    <property name="options.lastSelected" value="configurable.group.tools" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shiva\PycharmProjects\Retry\templates\images" />
+      <recent name="C:\Users\shiva\PycharmProjects\Retry\templates" />
+      <recent name="C:\Users\shiva\PycharmProjects\Retry\templates\css_result_img" />
+      <recent name="C:\Users\shiva\PycharmProjects\Retry\media" />
+      <recent name="C:\Users\shiva\PycharmProjects\Retry\templates\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shiva\PycharmProjects\Retry\Retryapp\templates" />
+      <recent name="C:\Users\shiva\PycharmProjects\Retry\templates\fonts" />
+      <recent name="C:\Users\shiva\PycharmProjects\Retry\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Retry">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Retry/templates/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Retryapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Retry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Retryapp/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Retry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Retry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Retry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Retry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Retry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Retry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Retry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Retry" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Retry" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Retry.settings" />
+      </envs>
+      <option name="SDK_HOME" value="E:\python\WinPython-64bit-3.5.2.3\python-3.5.2.amd64\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Retry" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="7000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Retry" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="2" class="java.lang.String" itemvalue="Python.views" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.views" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SearchEverywhereConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="ClassSearchEverywhereContributor" />
+      <filtered-out-file-type name="FileSearchEverywhereContributor" />
+      <filtered-out-file-type name="SymbolSearchEverywhereContributor" />
+      <filtered-out-file-type name="ActionSearchEverywhereContributor" />
+      <filtered-out-file-type name="YAMLKeysSearchEverywhereContributor" />
+    </file-type-list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a3e8836-a25b-4db4-8935-b9afb81a09fb" name="Default" comment="" />
+      <created>1538475969832</created>
+      <option name="number" value="Default" />
+      <updated>1538475969832</updated>
+      <workItem from="1550743637324" duration="7068000" />
+      <workItem from="1550751180656" duration="2794000" />
+      <workItem from="1550769838306" duration="3857000" />
+      <workItem from="1550823081674" duration="12427000" />
+      <workItem from="1550835665548" duration="3165000" />
+      <workItem from="1550851461853" duration="7090000" />
+      <workItem from="1550859424173" duration="159000" />
+      <workItem from="1550909097611" duration="14590000" />
+      <workItem from="1550924242278" duration="87000" />
+      <workItem from="1550948575299" duration="1182000" />
+      <workItem from="1550949822217" duration="265000" />
+      <workItem from="1550950216007" duration="25000" />
+      <workItem from="1550988428149" duration="6382000" />
+      <workItem from="1551020231610" duration="9951000" />
+      <workItem from="1551087423163" duration="9660000" />
+      <workItem from="1551108344328" duration="7820000" />
+      <workItem from="1551168967458" duration="9315000" />
+      <workItem from="1551259264099" duration="12127000" />
+      <workItem from="1551346977921" duration="5937000" />
+      <workItem from="1551354136609" duration="2180000" />
+      <workItem from="1551357265211" duration="6627000" />
+      <workItem from="1551370544621" duration="8367000" />
+      <workItem from="1551440040745" duration="12893000" />
+      <workItem from="1551519755955" duration="10517000" />
+      <workItem from="1551543988495" duration="4927000" />
+      <workItem from="1551549231950" duration="1547000" />
+      <workItem from="1551616442354" duration="21826000" />
+      <workItem from="1551809240706" duration="2050000" />
+      <workItem from="1551811337770" duration="4053000" />
+      <workItem from="1551862825907" duration="595000" />
+      <workItem from="1551877514833" duration="7920000" />
+      <workItem from="1552059259631" duration="10783000" />
+      <workItem from="1552136649979" duration="2877000" />
+      <workItem from="1552235998457" duration="10017000" />
+      <workItem from="1552293050139" duration="5038000" />
+      <workItem from="1552323203087" duration="1894000" />
+      <workItem from="1552404781661" duration="206000" />
+      <workItem from="1552405791626" duration="1639000" />
+      <workItem from="1552470587200" duration="4171000" />
+      <workItem from="1552499592164" duration="2854000" />
+      <workItem from="1552585072178" duration="8076000" />
+      <workItem from="1552663703555" duration="8795000" />
+      <workItem from="1552811814385" duration="9563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="263316000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32768363" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32768363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2580429" sideWeight="0.4957627" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18565683" sideWeight="0.5042373" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32768363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18297587" sideWeight="0.4969325" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18120806" sideWeight="0.5030675" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/addedsoftware.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.709091" vertical-offset="867" max-vertical-offset="5100">
+          <caret line="63" column="74" selection-start-line="63" selection-start-column="74" selection-end-line="63" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/addedweb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0676692" vertical-offset="929" max-vertical-offset="4760">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/appauth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.5595236" vertical-offset="551" max-vertical-offset="3774">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/editprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.706767" vertical-offset="1116" max-vertical-offset="5984">
+          <caret line="79" column="17" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/editprofile_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="979" max-vertical-offset="15912">
+          <caret line="69" column="73" selection-start-line="69" selection-start-column="73" selection-end-line="69" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/highlights.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="894" max-vertical-offset="6443">
+          <caret line="64" column="73" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/highlightsapp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="5134">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/highlightsoftware.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="5083">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/highlightweb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="5032">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6904762" vertical-offset="58" max-vertical-offset="3247">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/new_app_admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6904762" vertical-offset="58" max-vertical-offset="3060">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/new_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.357143" vertical-offset="1536" max-vertical-offset="9826">
+          <caret line="102" column="73" selection-start-line="102" selection-start-column="73" selection-end-line="102" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/popularapp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="5134">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/popularsoftware.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="5083">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="996" max-vertical-offset="5746">
+          <caret line="70" column="73" selection-start-line="70" selection-start-column="73" selection-end-line="70" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/result_download.com_software.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.357143" vertical-offset="1536" max-vertical-offset="8483">
+          <caret line="102" column="73" selection-start-line="102" selection-start-column="73" selection-end-line="102" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/result_download.com_software_unauth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.357143" vertical-offset="1536" max-vertical-offset="7446">
+          <caret line="102" column="73" selection-start-line="102" selection-start-column="73" selection-end-line="102" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/result_software.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.357143" vertical-offset="1536" max-vertical-offset="8177">
+          <caret line="102" column="73" selection-start-line="102" selection-start-column="73" selection-end-line="102" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/result_software_unauth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.357143" vertical-offset="1536" max-vertical-offset="7412">
+          <caret line="102" column="73" selection-start-line="102" selection-start-column="73" selection-end-line="102" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/software_admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2550">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/softwareauth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="11135">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/softwareguest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="4998">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/suggested.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="894" max-vertical-offset="6341">
+          <caret line="64" column="73" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/suggestedapp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="5151">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/suggestedsoftware.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="5100">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/suggestedweb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="5032">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/treanding_web_show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3094">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/trendingsoftware.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3327616" vertical-offset="877" max-vertical-offset="5083">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/trendingweb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="4590">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/unauth_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.357143" vertical-offset="1536" max-vertical-offset="7939">
+          <caret line="102" column="73" selection-start-line="102" selection-start-column="73" selection-end-line="102" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/webauth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3095238" vertical-offset="877" max-vertical-offset="11203">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/webguest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3327616" vertical-offset="877" max-vertical-offset="4998">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/website_unauth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3327616" vertical-offset="1438" max-vertical-offset="7480">
+          <caret line="96" column="73" selection-start-line="96" selection-start-column="73" selection-end-line="96" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/software_like_query.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21684867" vertical-offset="3040" max-vertical-offset="4828">
+          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/added.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="3111" max-vertical-offset="6681">
+          <caret line="211" column="53" selection-start-line="211" selection-start-column="53" selection-end-line="211" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/trending.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.653847" vertical-offset="3595" max-vertical-offset="5202">
+          <caret line="349" column="20" selection-start-line="320" selection-start-column="6" selection-end-line="349" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/popularweb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1538463" vertical-offset="4100" max-vertical-offset="5083">
+          <caret line="292" column="20" selection-start-line="292" selection-start-column="20" selection-end-line="292" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5887" max-vertical-offset="6528">
+          <caret line="413" column="22" selection-start-line="413" selection-start-column="22" selection-end-line="413" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/originalabout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2975" max-vertical-offset="5712">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1360" max-vertical-offset="2992">
+          <caret line="97" column="18" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retry/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/website.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="37.923077" vertical-offset="1394" max-vertical-offset="8500">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.115385" vertical-offset="1214" max-vertical-offset="2873">
+          <caret line="105" column="42" selection-start-line="105" selection-start-column="36" selection-end-line="105" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="13.511905" vertical-offset="4161" max-vertical-offset="8976">
+          <caret line="264" column="34" selection-start-line="264" selection-start-column="34" selection-end-line="264" selection-end-column="34" />
+          <folding>
+            <element signature="e#3393#3446#0#HTML" expanded="false" />
+            <element signature="e#3464#3518#0#HTML" expanded="false" />
+            <element signature="e#4407#4601#0#HTML" expanded="false" />
+            <element signature="e#4650#5618#0#HTML" expanded="false" />
+            <element signature="e#4702#4925#0#HTML" expanded="false" />
+            <element signature="e#4970#5264#0#HTML" expanded="false" />
+            <element signature="e#5308#5602#0#HTML" expanded="false" />
+            <element signature="e#5804#6072#0#HTML" expanded="false" />
+            <element signature="e#6121#6665#0#HTML" expanded="false" />
+            <element signature="e#6711#6914#0#HTML" expanded="false" />
+            <element signature="e#6959#7119#0#HTML" expanded="false" />
+            <element signature="e#7309#7515#0#HTML" expanded="false" />
+            <element signature="e#7922#8143#0#HTML" expanded="false" />
+            <element signature="e#8202#8362#0#HTML" expanded="false" />
+            <element signature="e#8558#8768#0#HTML" expanded="false" />
+            <element signature="e#8828#8988#0#HTML" expanded="false" />
+            <element signature="e#9174#9379#0#HTML" expanded="false" />
+            <element signature="e#9428#9588#0#HTML" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/app_recommendation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="111.80769" vertical-offset="3485" max-vertical-offset="4913">
+          <caret line="34" column="12" selection-start-line="29" selection-start-column="2" selection-end-line="34" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/popular1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="72.30769" vertical-offset="2968" max-vertical-offset="8704">
+          <caret line="64" column="73" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/trendingapp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5384617" vertical-offset="3035" max-vertical-offset="4862">
+          <caret line="249" column="21" selection-start-line="207" selection-start-column="16" selection-end-line="249" selection-end-column="21" />
+          <folding>
+            <element signature="n#form#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retryapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1887">
+          <caret line="83" column="83" selection-start-line="83" selection-start-column="83" selection-end-line="83" selection-end-column="83" />
+          <folding>
+            <element signature="e#24#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dashoard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-132.07692" vertical-offset="0" max-vertical-offset="7344">
+          <caret line="222" column="70" selection-start-line="222" selection-start-column="70" selection-end-line="222" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#for#2;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retryapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6929392" vertical-offset="74956" max-vertical-offset="85034">
+          <caret line="4434" column="26" selection-start-line="4434" selection-start-column="26" selection-end-line="4434" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <marker date="1565545375123" expanded="true" signature="2406:2440" placeholder="select * fro..login..." />
+            <marker date="1565545375123" expanded="true" signature="2575:2616" placeholder="select * fro..registration..." />
+            <marker date="1565545375123" expanded="true" signature="2949:2998" placeholder="select inter..user_interest..." />
+            <marker date="1565545375123" expanded="true" signature="4297:4343" placeholder="select app_i..user_app..." />
+            <marker date="1565545375123" expanded="true" signature="4498:4541" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="4891:4941" placeholder="select web_i..user_website..." />
+            <marker date="1565545375123" expanded="true" signature="5127:5162" placeholder="select * fro..web..." />
+            <marker date="1565545375123" expanded="true" signature="5334:5386" placeholder="select soft_..user_software..." />
+            <marker date="1565545375123" expanded="true" signature="5526:5579" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="5992:6035" placeholder="select passw..login..." />
+            <marker date="1565545375123" expanded="true" signature="6703:6726" placeholder="select * fro..age_range..." />
+            <marker date="1565545375123" expanded="true" signature="6806:6842" placeholder="select * fro..educational_background..." />
+            <marker date="1565545375123" expanded="true" signature="6934:6953" placeholder="select * fro..state..." />
+            <marker date="1565545375123" expanded="true" signature="7028:7050" placeholder="select * fro..language..." />
+            <marker date="1565545375123" expanded="true" signature="7128:7148" placeholder="select * fro..income..." />
+            <marker date="1565545375123" expanded="true" signature="7224:7248" placeholder="select * fro..profession..." />
+            <marker date="1565545375123" expanded="true" signature="7328:7350" placeholder="select * fro..interest..." />
+            <marker date="1565545375123" expanded="true" signature="8023:8093" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="8677:8739" placeholder="select * fro..web..." />
+            <marker date="1565545375123" expanded="true" signature="8983:9048" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="9726:9796" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="10383:10447" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="11173:11222" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="11872:11909" placeholder="select * fro..web..." />
+            <marker date="1565545375123" expanded="true" signature="12126:12170" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="13223:13259" placeholder="select * fro..login..." />
+            <marker date="1565545375123" expanded="true" signature="13438:13500" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="13798:13953" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="14340:14398" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="14934:15089" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="15441:15499" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="16074:16229" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="16616:16674" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="17080:17235" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="17586:17644" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="18335:18358" placeholder="select * fro..age_range..." />
+            <marker date="1565545375123" expanded="true" signature="18462:18498" placeholder="select * fro..educational_background..." />
+            <marker date="1565545375123" expanded="true" signature="18614:18633" placeholder="select * fro..state..." />
+            <marker date="1565545375123" expanded="true" signature="18732:18754" placeholder="select * fro..language..." />
+            <marker date="1565545375123" expanded="true" signature="18856:18876" placeholder="select * fro..income..." />
+            <marker date="1565545375123" expanded="true" signature="18976:19000" placeholder="select * fro..profession..." />
+            <marker date="1565545375123" expanded="true" signature="19104:19126" placeholder="select * fro..interest..." />
+            <marker date="1565545375123" expanded="true" signature="19887:19957" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="20541:20603" placeholder="select * fro..web..." />
+            <marker date="1565545375123" expanded="true" signature="20847:20912" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="21291:21332" placeholder="select * fro..registration..." />
+            <marker date="1565545375123" expanded="true" signature="21712:21754" placeholder="select * fro..user_interest..." />
+            <marker date="1565545375123" expanded="true" signature="23274:23323" placeholder="select * fro..recommendation_data..." />
+            <marker date="1565545375123" expanded="true" signature="24833:24875" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="26559:26620" placeholder="select lid,r..login..." />
+            <marker date="1565545375123" expanded="true" signature="27012:27058" placeholder="select statu..registration..." />
+            <marker date="1565545375123" expanded="true" signature="27243:27297" placeholder="select usern..registration..." />
+            <marker date="1565545375123" expanded="true" signature="28871:28921" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="29621:29691" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="30391:30461" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="30905:30967" placeholder="select * fro..web..." />
+            <marker date="1565545375123" expanded="true" signature="31190:31252" placeholder="select * fro..web..." />
+            <marker date="1565545375123" expanded="true" signature="31484:31549" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="31956:32021" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="32792:32830" placeholder="select email..login..." />
+            <marker date="1565545375123" expanded="true" signature="32972:33013" placeholder="select * fro..registration..." />
+            <marker date="1565545375123" expanded="true" signature="33149:33191" placeholder="select * fro..user_interest..." />
+            <marker date="1565545375123" expanded="true" signature="35140:35278" placeholder="update regis..." />
+            <marker date="1565545375123" expanded="true" signature="35465:35521" placeholder="update login..." />
+            <marker date="1565545375123" expanded="true" signature="35738:35783" placeholder="select image..registration..." />
+            <marker date="1565545375123" expanded="true" signature="35906:36044" placeholder="update regis..." />
+            <marker date="1565545375123" expanded="true" signature="36230:36286" placeholder="update login..." />
+            <marker date="1565545375123" expanded="true" signature="36489:36532" placeholder="select rid f..registration..." />
+            <marker date="1565545375123" expanded="true" signature="36643:36683" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="36796:36854" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="37181:37207" placeholder="SELECT * FRO..registration..." />
+            <marker date="1565545375123" expanded="true" signature="39165:39207" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="41654:41951" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="42583:42648" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="49247:49348" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="50488:50614" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="51064:51165" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="51705:51831" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="52068:52110" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="52267:52325" placeholder="select scree..app_screenshots..." />
+            <marker date="1565545375123" expanded="true" signature="52643:52694" placeholder="select * fro..app_reviews_result..." />
+            <marker date="1565545375123" expanded="true" signature="52879:52923" placeholder="select * fro..reviews_topic..." />
+            <marker date="1565545375123" expanded="true" signature="53297:53354" placeholder="select * fro..user_app..." />
+            <marker date="1565545375123" expanded="true" signature="53539:53622" placeholder="select statu..user_app_like_dislike_status..." />
+            <marker date="1565545375123" expanded="true" signature="58126:58227" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="59367:59493" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="59943:60044" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="60584:60710" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="60947:60989" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="61146:61204" placeholder="select scree..app_screenshots..." />
+            <marker date="1565545375123" expanded="true" signature="61522:61573" placeholder="select * fro..app_reviews_result..." />
+            <marker date="1565545375123" expanded="true" signature="61758:61802" placeholder="select * fro..reviews_topic..." />
+            <marker date="1565545375123" expanded="true" signature="62176:62233" placeholder="select * fro..user_app..." />
+            <marker date="1565545375123" expanded="true" signature="62418:62501" placeholder="select statu..user_app_like_dislike_status..." />
+            <marker date="1565545375123" expanded="true" signature="66183:66234" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="66350:66408" placeholder="select scree..app_screenshots..." />
+            <marker date="1565545375123" expanded="true" signature="66721:66772" placeholder="select * fro..app_reviews_result..." />
+            <marker date="1565545375123" expanded="true" signature="67022:67066" placeholder="select * fro..reviews_topic..." />
+            <marker date="1565545375123" expanded="true" signature="70563:70620" placeholder="select * fro..user_app..." />
+            <marker date="1565545375123" expanded="true" signature="70815:70898" placeholder="select statu..user_app_like_dislike_status..." />
+            <marker date="1565545375123" expanded="true" signature="74748:74782" placeholder="select * FRO..web..." />
+            <marker date="1565545375123" expanded="true" signature="78431:78728" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="81798:81904" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="82265:82371" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="82565:82671" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="83109:83215" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="83409:83515" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="83710:83816" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="84250:84356" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="84550:84656" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="84851:84957" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="85151:85257" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="85466:85572" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="85750:85856" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="86035:86141" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="86319:86425" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="86603:86709" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="86911:86945" placeholder="select * FRO..web..." />
+            <marker date="1565545375123" expanded="true" signature="87194:87235" placeholder="select * FRO..web_table..." />
+            <marker date="1565545375123" expanded="true" signature="88318:88379" placeholder="select * fro..user_website..." />
+            <marker date="1565545375123" expanded="true" signature="88554:88641" placeholder="select statu..user_website_like_dislike_status..." />
+            <marker date="1565545375123" expanded="true" signature="91835:91869" placeholder="select * FRO..web..." />
+            <marker date="1565545375123" expanded="true" signature="92215:92258" placeholder="update web S..." />
+            <marker date="1565545375123" expanded="true" signature="92355:92396" placeholder="select * FRO..web_table..." />
+            <marker date="1565545375123" expanded="true" signature="93433:93494" placeholder="select * fro..user_website..." />
+            <marker date="1565545375123" expanded="true" signature="93669:93756" placeholder="select statu..user_website_like_dislike_status..." />
+            <marker date="1565545375123" expanded="true" signature="97398:97450" placeholder="select * FRO..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="98300:98343" placeholder="select * FRO..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="98570:98631" placeholder="update new_s..." />
+            <marker date="1565545375123" expanded="true" signature="99532:99595" placeholder="select * fro..user_software..." />
+            <marker date="1565545375123" expanded="true" signature="99731:99820" placeholder="select statu..user_software_like_dislike_status..." />
+            <marker date="1565545375123" expanded="true" signature="114998:115053" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="115708:115763" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="116909:116968" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="117631:117690" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="118881:118942" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="119753:119814" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="120717:120796" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="121798:121884" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="122767:122855" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="123713:123800" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="123905:123955" placeholder="select app_l..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="124301:124355" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="125032:125107" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="125484:125537" placeholder="select app_d..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="125735:125792" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="126599:126690" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="126796:126838" placeholder="select web_l..web..." />
+            <marker date="1565545375123" expanded="true" signature="127185:127231" placeholder="update web S..." />
+            <marker date="1565545375123" expanded="true" signature="127917:127996" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="128373:128418" placeholder="select web_d..web..." />
+            <marker date="1565545375123" expanded="true" signature="128616:128665" placeholder="update web S..." />
+            <marker date="1565545375123" expanded="true" signature="129475:129568" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="129709:129780" placeholder="select title..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="130169:130238" placeholder="update new_s..." />
+            <marker date="1565545375123" expanded="true" signature="130928:131009" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="131387:131455" placeholder="select softw..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="131654:131726" placeholder="update new_s..." />
+            <marker date="1565545375123" expanded="true" signature="132470:132514" placeholder="select * fro..registration..." />
+            <marker date="1565545375123" expanded="true" signature="132724:132762" placeholder="select email..login..." />
+            <marker date="1565545375123" expanded="true" signature="133418:133468" placeholder="update regis..." />
+            <marker date="1565545375123" expanded="true" signature="133542:133585" placeholder="select lid f..registration..." />
+            <marker date="1565545375123" expanded="true" signature="133653:133691" placeholder="select email..login..." />
+            <marker date="1565545375123" expanded="true" signature="134217:134261" placeholder="select * fro..registration..." />
+            <marker date="1565545375123" expanded="true" signature="134473:134511" placeholder="select email..login..." />
+            <marker date="1565545375123" expanded="true" signature="135153:135196" placeholder="select lid f..registration..." />
+            <marker date="1565545375123" expanded="true" signature="135314:135354" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="135424:135463" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="135532:135564" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="135655:135699" placeholder="select * fro..registration..." />
+            <marker date="1565545375123" expanded="true" signature="135911:135949" placeholder="select email..login..." />
+            <marker date="1565545375123" expanded="true" signature="137048:137090" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="138791:139077" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="139600:139665" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="140274:140375" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="141287:141413" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="141762:141819" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="141987:142044" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="143769:143839" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="144339:144393" placeholder="select app_c..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="144567:144625" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="144768:144826" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="144936:145006" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="145773:145815" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="147516:147802" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="148320:148385" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="148994:149095" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="150007:150133" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="150487:150544" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="150712:150769" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="152236:152306" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="152780:152834" placeholder="select app_c..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="153002:153060" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="153203:153261" placeholder="update app_d..." />
+            <marker date="1565545375123" expanded="true" signature="153377:153447" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="153933:153980" placeholder="select site_..website..." />
+            <marker date="1565545375123" expanded="true" signature="154094:154132" placeholder="select title..web..." />
+            <marker date="1565545375123" expanded="true" signature="158202:158488" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="161557:161663" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="162024:162130" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="162324:162430" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="162868:162974" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="163168:163274" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="163469:163575" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="164009:164115" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="164309:164415" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="164610:164716" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="164910:165016" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="165225:165331" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="165509:165615" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="165794:165900" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="166078:166184" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="166362:166468" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="167129:167177" placeholder="select web_i..web..." />
+            <marker date="1565545375123" expanded="true" signature="167673:167715" placeholder="select categ..web..." />
+            <marker date="1565545375123" expanded="true" signature="167850:167896" placeholder="update web S..." />
+            <marker date="1565545375123" expanded="true" signature="168013:168061" placeholder="select web_i..web..." />
+            <marker date="1565545375123" expanded="true" signature="168804:168847" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="170101:170145" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="170659:170710" placeholder="delete from ..." />
+            <marker date="1565545375123" expanded="true" signature="170782:170826" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="180716:180786" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="181240:181286" placeholder="select app_i..user_app..." />
+            <marker date="1565545375123" expanded="true" signature="181413:181456" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="182215:182265" placeholder="select web_i..user_website..." />
+            <marker date="1565545375123" expanded="true" signature="182380:182415" placeholder="select * fro..web..." />
+            <marker date="1565545375123" expanded="true" signature="182994:183046" placeholder="select soft_..user_software..." />
+            <marker date="1565545375123" expanded="true" signature="183161:183214" placeholder="select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="183889:183934" placeholder="Select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="184464:184501" placeholder="Select * fro..web..." />
+            <marker date="1565545375123" expanded="true" signature="184692:184738" placeholder="Select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="185118:185163" placeholder="Select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="185609:185646" placeholder="Select * fro..web..." />
+            <marker date="1565545375123" expanded="true" signature="185807:185853" placeholder="Select * fro..new_software..." />
+            <marker date="1565545375123" expanded="true" signature="186768:186810" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="189231:189528" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="190079:190144" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="190847:190948" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="191936:192062" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="192448:192549" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="193009:193135" placeholder="insert into ..." />
+            <marker date="1565545375123" expanded="true" signature="194391:194432" placeholder="select * fro..registration..." />
+            <marker date="1565545375123" expanded="true" signature="194784:194826" placeholder="select * fro..user_interest..." />
+            <marker date="1565545375123" expanded="true" signature="196270:196319" placeholder="select * fro..recommendation_data..." />
+            <marker date="1565545375123" expanded="true" signature="200116:200158" placeholder="select * fro..app_details..." />
+            <marker date="1565545375123" expanded="true" signature="201856:201937" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
